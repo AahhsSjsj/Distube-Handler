@@ -160,6 +160,8 @@ module.exports = {
 };
 ```
 
+# **Idea Dada Por: [GhostWolf🍂#4330](https://discord.com/users/550680692783054868)**
+
 # **🔗Links**
 
 - [Web De Discord.js](https://discord.js.org/#/)
